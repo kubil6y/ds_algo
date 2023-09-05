@@ -1,0 +1,30 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-Wall",
+            "-Wfatal-errors",
+            "-std=c++17",
+            "-o",
+            "main",
+            "src/main.cpp"
+        ],
+        "directory": "/home/kubilay/cpp/ds_algo",
+        "file": "src/main.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-Wall",
+            "-Wfatal-errors",
+            "-std=c++17",
+            "-o",
+            "main",
+            "src/LinkedList/LinkedList.cpp"
+        ],
+        "directory": "/home/kubilay/cpp/ds_algo",
+        "file": "src/LinkedList/LinkedList.cpp"
+    }
+]
